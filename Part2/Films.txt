@@ -1,0 +1,4 @@
+﻿Class "Films"
+
+Attributes:  duration, composition of actors, budget, monetary collections, language, country vendor, genre, year of manufacture, film campaign, scenario
+Methods:buy the movie, watch the movie, select a genre, select language, select the country of the vendor, read short the description

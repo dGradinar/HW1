@@ -1,0 +1,4 @@
+﻿Class “Music instruments”
+
+Attributes: size, colour, quantity of strings, quantity of keys, type of music instruments, material, sounding, stability, usability, appearance, price
+Methods:Play the music instrument, select type of the music instrument, buy the music instrument, select design of the music instrument, select material

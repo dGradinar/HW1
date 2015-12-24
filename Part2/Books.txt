@@ -1,0 +1,4 @@
+﻿Class Books
+
+Attributes design, author, number of pages, material, publication, country vendor, price, genre, year of manufacture
+Methods: buy the book, read the book, select design of the book, select the author of the book, select publishing house, read the short description 
