@@ -1,0 +1,9 @@
+﻿Three new attributes:
+1)Part
+2)Chapter
+3)Main Hero
+
+Two new methods
+
+1)Buy the book
+2)Read the book

@@ -1,0 +1,10 @@
+Three new attributes 
+
+1)Phone model
+2)Phone RAM
+3)Phone memory
+
+Two new methods
+
+1)Call
+2)Turn phone

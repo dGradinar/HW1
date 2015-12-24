@@ -1,0 +1,10 @@
+﻿Three new attributes:
+
+1)Director
+2)Name
+3)Main hero
+
+Two new methods
+
+1)By this film
+2)Wath this film

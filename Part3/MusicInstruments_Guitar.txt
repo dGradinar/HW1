@@ -1,0 +1,10 @@
+Three new attributes
+
+1)Guitar brand
+2)Guitar type
+3)quantity of strings
+
+Ywo new methods
+
+1)Play a guitar
+2)Broke a guitar
